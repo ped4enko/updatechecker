@@ -39,12 +39,5 @@ Google Update Checker is a tool that helps webmasters and SEO professionals unde
 - Python 3
 - Google Cloud Platform account
 
-### Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/ped4enko/google-update-checker.git
-   cd google-update-checker
-
 ###License
 This project is licensed under the MIT License.
